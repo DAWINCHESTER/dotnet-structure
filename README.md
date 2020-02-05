@@ -1,3 +1,5 @@
+This project can be used to scaffold a prototypical .NET solution including file system layout and tooling. 
+
 ```
 $/
   artifacts/
